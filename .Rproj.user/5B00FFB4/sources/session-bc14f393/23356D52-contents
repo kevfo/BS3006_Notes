@@ -2,14 +2,12 @@ project:
   type: book
 
 book:
-  title: "BS3006_Notes"
-  author: "Norah Jones"
+  title: "BS3006: Biobusiness"
+  author: "Kevin Fo"
   date: "13/01/2024"
   chapters:
     - index.qmd
-    - chapters/chapter1.qmd
-    - summary.qmd
-    - references.qmd
+    - chapters/week1.qmd
 
 bibliography: references.bib
 
