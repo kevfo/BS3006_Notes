@@ -9,6 +9,8 @@ book:
   chapters:
     - index.qmd
     - chapters/week1.qmd
+  comments:
+    hypothesis: true
 
 bibliography: references.bib
 
